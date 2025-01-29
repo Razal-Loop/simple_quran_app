@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/material.dart';
 import 'package:quran_app/models/surah_model.dart';
 import 'package:quran_app/screens/detail_surah_screen.dart';

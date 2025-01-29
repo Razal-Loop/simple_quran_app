@@ -17,7 +17,7 @@ class SurahListScreen extends StatefulWidget {
 class _SurahListScreenState extends State<SurahListScreen> {
   @override
   void initState() {
-    // TODO: implement initState
+    
     super.initState();
     context.read<SurahCubit>().fetchSurahs();
   }

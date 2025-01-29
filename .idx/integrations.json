@@ -1,0 +1,6 @@
+{
+  "firebase_hosting": {
+    "deploymentHostingUrl": "https://quran-29725.web.app"
+  },
+  "cloud_run_deploy": {}
+}
